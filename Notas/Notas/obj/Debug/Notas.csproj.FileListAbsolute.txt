@@ -1,0 +1,6 @@
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Nota\Notas\Notas\obj\Debug\Notas.csprojResolveAssemblyReference.cache
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Nota\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Nota\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Nota\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Nota\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Nota\Notas\Notas\obj\Debug\Notas.pdb

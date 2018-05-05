@@ -1,0 +1,6 @@
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex3\Quarto\Quarto\bin\Debug\Quarto.exe.config
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex3\Quarto\Quarto\bin\Debug\Quarto.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex3\Quarto\Quarto\bin\Debug\Quarto.pdb
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex3\Quarto\Quarto\obj\Debug\Quarto.csprojResolveAssemblyReference.cache
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex3\Quarto\Quarto\obj\Debug\Quarto.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex3\Quarto\Quarto\obj\Debug\Quarto.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\teste\testediadonal\Diagonalmatriz\Diagonalmatriz\bin\Debug\Diagonalmatriz.exe.config
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\teste\testediadonal\Diagonalmatriz\Diagonalmatriz\bin\Debug\Diagonalmatriz.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\teste\testediadonal\Diagonalmatriz\Diagonalmatriz\bin\Debug\Diagonalmatriz.pdb
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\teste\testediadonal\Diagonalmatriz\Diagonalmatriz\obj\Debug\Diagonalmatriz.csprojResolveAssemblyReference.cache
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\teste\testediadonal\Diagonalmatriz\Diagonalmatriz\obj\Debug\Diagonalmatriz.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\teste\testediadonal\Diagonalmatriz\Diagonalmatriz\obj\Debug\Diagonalmatriz.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Retangulo\Retangulo\obj\Debug\Retangulo.csprojResolveAssemblyReference.cache
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+C:\Users\Eloá\Documents\Curso C#\Projetoteste\Teste2018\Ex1\Lista2\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eloá\Documents\Visual Studio 2017\Projects\Salario1\Salario1\obj\Debug\Salario1.csprojResolveAssemblyReference.cache
+C:\Users\Eloá\Documents\Visual Studio 2017\Projects\Salario1\Salario1\bin\Debug\Salario1.exe.config
+C:\Users\Eloá\Documents\Visual Studio 2017\Projects\Salario1\Salario1\bin\Debug\Salario1.exe
+C:\Users\Eloá\Documents\Visual Studio 2017\Projects\Salario1\Salario1\bin\Debug\Salario1.pdb
+C:\Users\Eloá\Documents\Visual Studio 2017\Projects\Salario1\Salario1\obj\Debug\Salario1.exe
+C:\Users\Eloá\Documents\Visual Studio 2017\Projects\Salario1\Salario1\obj\Debug\Salario1.pdb
